@@ -1,10 +1,6 @@
 
 //  ViewController.m
 //  QASA
-//
-//  Created by Raju M on 03/08/15.
-//  Copyright (c) 2015 Raju M. All rights reserved.
-//
 
 #import "HomeViewController.h"
 #import "SWRevealViewController.h"
@@ -1459,7 +1455,4 @@
 {
     
 }
- 
-
 @end
-}
